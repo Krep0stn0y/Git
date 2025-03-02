@@ -1,4 +1,4 @@
-#include<stdio.h> //282
+#include<stdio.h> //282.1
 #include<math.h>
 int main()
 {
